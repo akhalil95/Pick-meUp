@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Pick-me Up",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "chick.png"
+    },
+    "description": "This for the days you are feeling low and need a little pick-me up.",
+    "author": "Ayesha Khalil"
+}
